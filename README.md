@@ -17,7 +17,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do texto. O Leonard AI foi pa
 ## 🚀 Resultados - Apresente os resultados do seu projeto
 
 O texto leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador. Traz uma visão geral do que são as IAs generativas, benefícios das IAs no Planejamento Estratégico, como a análise de dados gerada por IA acelera insights e previsões, impactos na Tomada de Decisão e Inovação Estratégica, redução de vieses e maior precisão nas análises, desafios comuns na adoção de IA. 
-link para o ebook ?(pdf) https://github.com/AriceleAraujo/desafioIAGENERATIVAs/commit/37893fdc045473bbcfdba7ac48d75cbddaca9af4
+link para o ebook ?(pdf) 
 
 
 ## 💭 Reflexão (Opcional) - Comente sobre o desafio de criar algo 'natty' com IA.
